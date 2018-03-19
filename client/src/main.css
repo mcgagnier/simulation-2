@@ -1,0 +1,21 @@
+.Login {
+  text-align: center;
+  background-color: #AFD4C0;
+  height: 2000px;
+  margin: 0;
+  padding: 0;
+}
+
+.login-bg {
+  background-color: white;
+  width: 55%;
+  height: 2000px;
+  margin: auto;
+}
+
+.login-img {
+  padding-top: 170px;
+}
+input {
+  width: 50%;
+}

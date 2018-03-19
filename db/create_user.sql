@@ -1,0 +1,1 @@
+INSERT INTO Houser_auth2 ( username, password ) VALUES ( $1, $2);
